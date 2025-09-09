@@ -1,0 +1,501 @@
+jobtitle,skills,location,experience,poste_rh,skills_rh,location_rh,exp_min,recrute
+Data Engineer,"spark, python, etl, airflow, hadoop",Gabès,0,data_engineer,"spark, hadoop, python",Gabès,4,0
+Software Architect,"design patterns, power bi, ansible, java, microservices",Sousse,5,software_architect,"design patterns, java, microservices",Sfax,0,0
+Backend Dev,"python, airflow, spring boot, java, sql",Tunis,5,backend_dev,"java, sql, python",Sousse,1,0
+Software Architect,"tensorflow, architecture logicielle, networking, design patterns, uml",Sfax,4,software_architect,"java, microservices, architecture logicielle",Gabès,0,0
+Data Scientist,"python, selenium, scikit-learn, matplotlib, excel",Gabès,6,data_scientist,"matplotlib, python, scikit-learn",Gabès,5,1
+Cybersecurity Engineer,"wireshark, kali linux, firewall, nmap, wireshark",Ariana,4,cybersecurity_engineer,"firewall, wireshark, encryption",Gabès,3,0
+Sysadmin,"bash, kali linux, networking, windows server, ssh",Sfax,4,sysadmin,"networking, ssh, windows server",Monastir,2,0
+Ml Engineer,"planning, tensorflow, spring boot, aws, mlflow",Sousse,5,ml_engineer,"scikit-learn, keras, tensorflow",Sfax,1,0
+Ml Engineer,"selenium, mlflow, scikit-learn, kali linux, python",Ariana,4,ml_engineer,"tensorflow, scikit-learn, mlflow",Tunis,3,0
+Fullstack Dev,"node.js, sql, mongodb, node.js, docker",Tunis,2,fullstack_dev,"node.js, mongodb, react",Gabès,3,0
+Data Engineer,"postman, excel, etl, spark, airflow",Gabès,6,data_engineer,"airflow, hadoop, spark",Sousse,5,0
+Data Scientist,"css, pandas, html, scikit-learn, matplotlib",Ariana,3,data_scientist,"pandas, matplotlib, scikit-learn",Sousse,3,0
+Sysadmin,"hadoop, networking, ssh, bash, kali linux",Sfax,6,sysadmin,"linux, ssh, bash",Tunis,4,0
+Frontend Dev,"html, javascript, css, javascript, react",Tunis,4,frontend_dev,"css, html, vue.js",Ariana,3,0
+Software Architect,"aws, java, architecture logicielle, ansible, design patterns",Sfax,6,software_architect,"microservices, architecture logicielle, java",Ariana,4,0
+Software Architect,"architecture logicielle, test automation, design patterns, agile, power bi",Tunis,3,software_architect,"uml, architecture logicielle, design patterns",Sfax,4,0
+Fullstack Dev,"mongodb, sql, react, node.js, javascript",Sfax,0,fullstack_dev,"javascript, sql, react",Tunis,1,0
+Cloud Engineer,"gcp, aws, javascript, terraform, docker",Sfax,3,cloud_engineer,"aws, terraform, gcp",Ariana,1,0
+Data Scientist,"scikit-learn, nmap, excel, matplotlib, sql",Gabès,6,data_scientist,"pandas, scikit-learn, matplotlib",Ariana,1,0
+Devops Engineer,"postman, pandas, terraform, docker, ansible",Monastir,3,devops_engineer,"docker, terraform, ansible",Gabès,2,0
+Software Architect,"spring boot, design patterns, architecture logicielle, microservices, test automation",Sousse,3,software_architect,"uml, design patterns, java",Sousse,4,0
+Data Analyst,"sql, linux, tableau, excel, python",Sousse,6,data_analyst,"excel, sql, python",Sfax,4,0
+Devops Engineer,"jenkins, spring boot, docker, kubernetes, terraform",Sousse,0,devops_engineer,"jenkins, terraform, kubernetes",Ariana,4,0
+Frontend Dev,"css, vue.js, javascript, html, design patterns",Monastir,5,frontend_dev,"javascript, vue.js, html",Monastir,3,1
+Frontend Dev,"vue.js, test automation, css, html, tableau",Tunis,3,frontend_dev,"react, javascript, vue.js",Ariana,0,0
+Data Analyst,"agile, excel, mongodb, design patterns, sql",Ariana,1,data_analyst,"tableau, python, sql",Sousse,5,0
+Data Analyst,"sql, power bi, python, tableau, excel",Ariana,2,data_analyst,"sql, tableau, power bi",Tunis,0,0
+Ml Engineer,"java, tensorflow, keras, mlflow, scikit-learn",Ariana,1,ml_engineer,"tensorflow, python, mlflow",Tunis,5,0
+Cybersecurity Engineer,"nmap, power bi, firewall, wireshark, kali linux",Monastir,0,cybersecurity_engineer,"kali linux, nmap, encryption",Ariana,3,0
+Fullstack Dev,"airflow, html, sql, mongodb, postman",Sfax,5,fullstack_dev,"mongodb, sql, node.js",Gabès,4,0
+Data Scientist,"matplotlib, sql, python, ansible, microservices",Gabès,0,data_scientist,"pandas, scikit-learn, sql",Ariana,1,0
+Ml Engineer,"python, tensorflow, mlflow, scikit-learn, microservices",Gabès,5,ml_engineer,"python, tensorflow, keras",Monastir,1,0
+Ml Engineer,"tensorflow, mlflow, power bi, scikit-learn, keras",Tunis,2,ml_engineer,"scikit-learn, python, keras",Sfax,5,0
+Data Scientist,"matplotlib, scikit-learn, pandas, sql, mongodb",Gabès,6,data_scientist,"sql, python, pandas",Monastir,5,0
+Devops Engineer,"kubernetes, planning, etl, jenkins, docker",Monastir,3,devops_engineer,"terraform, ansible, kubernetes",Ariana,1,0
+Ml Engineer,"encryption, python, mlflow, tensorflow, keras",Ariana,6,ml_engineer,"python, tensorflow, mlflow",Sousse,5,0
+Data Analyst,"sql, excel, devops, ssh, hadoop",Tunis,3,data_analyst,"power bi, python, sql",Ariana,0,0
+Backend Dev,"uml, python, react, node.js, spring boot",Gabès,6,backend_dev,"sql, spring boot, node.js",Monastir,5,0
+Qa Engineer,"node.js, test automation, jira, selenium, uml",Tunis,2,qa_engineer,"jira, test automation, cypress",Sousse,1,0
+Scrum Master,"dashboards, scrum, postman, jira, windows server",Sousse,1,scrum_master,"agile, scrum, planning",Ariana,0,0
+Cloud Engineer,"devops, ssh, terraform, azure, mlflow",Sousse,6,cloud_engineer,"devops, aws, terraform",Sousse,5,1
+Data Scientist,"sql, javascript, pandas, excel, matplotlib",Monastir,5,data_scientist,"python, scikit-learn, pandas",Sfax,1,0
+Cloud Engineer,"azure, aws, aws, terraform, devops",Monastir,0,cloud_engineer,"aws, terraform, azure",Tunis,4,0
+Ml Engineer,"python, mlflow, scikit-learn, matplotlib, sql",Tunis,3,ml_engineer,"keras, python, mlflow",Ariana,5,0
+Data Engineer,"kanban, design patterns, python, hadoop, spark",Ariana,5,data_engineer,"airflow, python, hadoop",Monastir,2,0
+Scrum Master,"kanban, ansible, planning, agile, jira",Sfax,2,scrum_master,"scrum, agile, planning",Sfax,3,0
+Devops Engineer,"kubernetes, terraform, ansible, jenkins, encryption",Ariana,0,devops_engineer,"kubernetes, ansible, terraform",Ariana,1,0
+Cybersecurity Engineer,"wireshark, hadoop, aws, encryption, nmap",Sousse,6,cybersecurity_engineer,"nmap, wireshark, encryption",Sfax,0,0
+Backend Dev,"python, css, scrum, spring boot, java",Gabès,2,backend_dev,"java, spring boot, sql",Tunis,5,0
+Bi Analyst,"uml, selenium, encryption, etl, sql",Ariana,0,bi_analyst,"power bi, tableau, dashboards",Ariana,5,0
+Cloud Engineer,"planning, azure, terraform, devops, aws",Monastir,5,cloud_engineer,"devops, azure, terraform",Sfax,5,0
+Cybersecurity Engineer,"encryption, scrum, nmap, kali linux, javascript",Sousse,2,cybersecurity_engineer,"kali linux, firewall, nmap",Gabès,5,0
+Cloud Engineer,"devops, test automation, gcp, azure, css",Ariana,5,cloud_engineer,"terraform, devops, aws",Monastir,5,0
+Cloud Engineer,"excel, azure, cypress, devops, aws",Ariana,3,cloud_engineer,"terraform, gcp, devops",Monastir,1,0
+Scrum Master,"networking, dashboards, jira, etl, agile",Monastir,5,scrum_master,"planning, jira, kanban",Monastir,1,0
+Data Scientist,"etl, matplotlib, pandas, mlflow, sql",Sfax,5,data_scientist,"matplotlib, pandas, sql",Gabès,5,0
+Fullstack Dev,"node.js, mongodb, node.js, wireshark, react",Gabès,2,fullstack_dev,"mongodb, node.js, javascript",Sousse,2,0
+Data Scientist,"pandas, kanban, python, sql, matplotlib",Tunis,2,data_scientist,"python, scikit-learn, sql",Ariana,2,0
+Sysadmin,"postman, linux, pandas, ssh, windows server",Sfax,4,sysadmin,"networking, linux, bash",Gabès,1,0
+Scrum Master,"jira, java, css, planning, planning",Sousse,6,scrum_master,"kanban, jira, planning",Monastir,5,0
+Sysadmin,"agile, bash, wireshark, linux, windows server",Ariana,0,sysadmin,"bash, ssh, networking",Sousse,5,0
+Qa Engineer,"test automation, vue.js, docker, cypress, java",Sfax,2,qa_engineer,"cypress, selenium, jira",Monastir,0,0
+Scrum Master,"planning, jira, docker, etl, kanban",Sousse,1,scrum_master,"kanban, scrum, planning",Monastir,5,0
+Fullstack Dev,"react, spark, sql, mongodb, power bi",Gabès,5,fullstack_dev,"javascript, mongodb, node.js",Gabès,1,0
+Data Engineer,"etl, scikit-learn, ansible, hadoop, hadoop",Gabès,5,data_engineer,"etl, hadoop, python",Sfax,1,0
+Fullstack Dev,"dashboards, javascript, node.js, sql, mongodb",Ariana,5,fullstack_dev,"node.js, mongodb, javascript",Ariana,3,1
+Devops Engineer,"power bi, terraform, jenkins, kubernetes, excel",Sousse,0,devops_engineer,"terraform, jenkins, kubernetes",Gabès,4,0
+Cybersecurity Engineer,"encryption, firewall, css, nmap, aws",Sfax,0,cybersecurity_engineer,"kali linux, firewall, nmap",Gabès,3,0
+Data Engineer,"hadoop, python, bash, etl, airflow",Gabès,3,data_engineer,"python, etl, spark",Ariana,0,0
+Qa Engineer,"test automation, postman, tensorflow, cypress, jira",Tunis,1,qa_engineer,"jira, test automation, cypress",Gabès,1,0
+Fullstack Dev,"aws, power bi, javascript, nmap, sql",Sousse,2,fullstack_dev,"react, mongodb, javascript",Tunis,5,0
+Frontend Dev,"react, postman, vue.js, architecture logicielle, html",Tunis,5,frontend_dev,"react, css, html",Sfax,3,0
+Data Engineer,"hadoop, css, devops, windows server, python",Sfax,3,data_engineer,"spark, airflow, etl",Sfax,5,0
+Qa Engineer,"cypress, selenium, jira, networking, postman",Sfax,3,qa_engineer,"postman, selenium, cypress",Ariana,4,0
+Data Scientist,"scikit-learn, devops, sql, ssh, pandas",Sousse,2,data_scientist,"matplotlib, python, pandas",Tunis,1,0
+Scrum Master,"ssh, planning, scrum, planning, spark",Tunis,4,scrum_master,"jira, planning, scrum",Monastir,2,0
+Ml Engineer,"keras, keras, docker, python, mlflow",Gabès,5,ml_engineer,"keras, mlflow, tensorflow",Sfax,2,0
+Ml Engineer,"scikit-learn, azure, tensorflow, mlflow, javascript",Sousse,5,ml_engineer,"python, keras, scikit-learn",Tunis,4,0
+Scrum Master,"design patterns, scrum, mongodb, planning, jira",Monastir,6,scrum_master,"kanban, planning, jira",Sousse,2,0
+Data Engineer,"python, airflow, html, spark, etl",Ariana,1,data_engineer,"hadoop, python, spark",Monastir,5,0
+Cybersecurity Engineer,"nmap, scikit-learn, css, wireshark, encryption",Sfax,2,cybersecurity_engineer,"encryption, nmap, kali linux",Sfax,3,0
+Data Analyst,"gcp, react, tableau, excel, python",Monastir,0,data_analyst,"sql, python, tableau",Monastir,0,1
+Backend Dev,"sql, java, python, scikit-learn, html",Sfax,6,backend_dev,"node.js, java, sql",Gabès,2,0
+Frontend Dev,"planning, javascript, react, vue.js, html",Monastir,1,frontend_dev,"css, vue.js, javascript",Sousse,3,0
+Scrum Master,"devops, dashboards, kanban, architecture logicielle, planning",Sousse,2,scrum_master,"agile, scrum, planning",Monastir,5,0
+Frontend Dev,"css, vue.js, react, etl, javascript",Gabès,0,frontend_dev,"css, vue.js, react",Tunis,5,0
+Cloud Engineer,"gcp, devops, design patterns, uml, azure",Monastir,6,cloud_engineer,"gcp, aws, azure",Tunis,0,0
+Backend Dev,"spring boot, design patterns, spring boot, sql, scrum",Tunis,5,backend_dev,"sql, java, node.js",Sfax,4,0
+Cybersecurity Engineer,"wireshark, wireshark, kali linux, nmap, microservices",Ariana,5,cybersecurity_engineer,"nmap, firewall, kali linux",Tunis,1,0
+Data Analyst,"uml, excel, ansible, gcp, tableau",Gabès,1,data_analyst,"tableau, excel, python",Monastir,2,0
+Data Analyst,"tableau, sql, power bi, kubernetes, python",Tunis,6,data_analyst,"excel, power bi, python",Monastir,2,0
+Qa Engineer,"networking, kubernetes, test automation, sql, cypress",Tunis,5,qa_engineer,"jira, selenium, test automation",Monastir,5,0
+Bi Analyst,"tableau, networking, etl, encryption, wireshark",Sfax,6,bi_analyst,"sql, tableau, etl",Sfax,3,1
+Scrum Master,"scrum, windows server, kanban, agile, devops",Ariana,3,scrum_master,"agile, scrum, planning",Sousse,2,0
+Cloud Engineer,"terraform, ssh, aws, azure, html",Sfax,0,cloud_engineer,"devops, aws, azure",Sfax,4,0
+Frontend Dev,"spring boot, scikit-learn, html, react, javascript",Tunis,0,frontend_dev,"react, javascript, vue.js",Monastir,3,0
+Software Architect,"architecture logicielle, microservices, uml, microservices, airflow",Monastir,4,software_architect,"architecture logicielle, microservices, design patterns",Monastir,1,1
+Devops Engineer,"firewall, docker, terraform, kubernetes, jenkins",Sfax,2,devops_engineer,"ansible, jenkins, docker",Monastir,5,0
+Scrum Master,"scrum, kanban, gcp, bash, planning",Sfax,2,scrum_master,"agile, jira, planning",Tunis,3,0
+Fullstack Dev,"airflow, sql, node.js, kali linux, react",Sousse,3,fullstack_dev,"react, sql, mongodb",Sfax,1,0
+Frontend Dev,"html, kanban, scrum, javascript, css",Sousse,6,frontend_dev,"javascript, vue.js, react",Gabès,2,0
+Data Engineer,"hadoop, kali linux, etl, sql, airflow",Gabès,0,data_engineer,"airflow, etl, python",Ariana,0,0
+Cloud Engineer,"css, gcp, terraform, sql, jira",Sousse,4,cloud_engineer,"aws, terraform, devops",Monastir,4,0
+Cloud Engineer,"devops, terraform, aws, planning, gcp",Monastir,6,cloud_engineer,"azure, devops, terraform",Ariana,5,0
+Ml Engineer,"scikit-learn, mlflow, python, tensorflow, spring boot",Tunis,1,ml_engineer,"mlflow, scikit-learn, keras",Gabès,3,0
+Qa Engineer,"selenium, test automation, cypress, nmap, postman",Gabès,5,qa_engineer,"test automation, jira, postman",Monastir,0,0
+Frontend Dev,"react, html, vue.js, cypress, matplotlib",Gabès,6,frontend_dev,"css, react, vue.js",Ariana,0,0
+Data Analyst,"python, power bi, spring boot, sql, tableau",Sfax,4,data_analyst,"sql, power bi, excel",Tunis,1,0
+Qa Engineer,"test automation, postman, cypress, dashboards, jira",Monastir,1,qa_engineer,"jira, postman, selenium",Gabès,0,0
+Cloud Engineer,"dashboards, aws, devops, postman, mlflow",Gabès,3,cloud_engineer,"devops, gcp, aws",Gabès,5,0
+Backend Dev,"java, spring boot, node.js, sql, python",Tunis,3,backend_dev,"spring boot, sql, java",Sfax,4,0
+Ml Engineer,"python, keras, dashboards, mongodb, excel",Tunis,3,ml_engineer,"mlflow, python, tensorflow",Ariana,4,0
+Cybersecurity Engineer,"kali linux, gcp, kanban, spring boot, encryption",Monastir,6,cybersecurity_engineer,"kali linux, firewall, nmap",Ariana,2,0
+Sysadmin,"bash, pandas, ssh, networking, linux",Sousse,1,sysadmin,"networking, windows server, linux",Ariana,0,0
+Devops Engineer,"gcp, devops, docker, terraform, uml",Gabès,2,devops_engineer,"kubernetes, terraform, jenkins",Sousse,2,0
+Backend Dev,"kanban, excel, python, node.js, java",Monastir,6,backend_dev,"java, node.js, python",Gabès,5,0
+Data Analyst,"power bi, python, postman, sql, tableau",Gabès,0,data_analyst,"power bi, excel, tableau",Tunis,1,0
+Bi Analyst,"tableau, dashboards, sql, etl, power bi",Monastir,1,bi_analyst,"power bi, sql, etl",Monastir,0,1
+Backend Dev,"tableau, spring boot, javascript, python, jira",Sousse,0,backend_dev,"python, java, spring boot",Gabès,4,0
+Bi Analyst,"sql, power bi, dashboards, planning, etl",Tunis,6,bi_analyst,"tableau, power bi, sql",Sousse,5,0
+Backend Dev,"nmap, java, python, html, node.js",Sousse,5,backend_dev,"java, python, node.js",Tunis,0,0
+Frontend Dev,"hadoop, vue.js, css, javascript, html",Ariana,3,frontend_dev,"css, react, html",Ariana,2,1
+Bi Analyst,"dashboards, etl, tableau, wireshark, sql",Monastir,1,bi_analyst,"sql, dashboards, etl",Sfax,0,0
+Backend Dev,"spring boot, sql, spring boot, jira, python",Ariana,4,backend_dev,"java, node.js, spring boot",Monastir,3,0
+Cybersecurity Engineer,"ssh, firewall, nmap, kali linux, kanban",Monastir,3,cybersecurity_engineer,"encryption, nmap, wireshark",Gabès,2,0
+Ml Engineer,"tensorflow, mlflow, python, keras, ssh",Tunis,0,ml_engineer,"mlflow, tensorflow, keras",Tunis,5,0
+Fullstack Dev,"mongodb, mongodb, react, design patterns, javascript",Ariana,2,fullstack_dev,"mongodb, node.js, sql",Monastir,2,0
+Data Engineer,"python, spark, hadoop, etl, matplotlib",Ariana,4,data_engineer,"python, hadoop, spark",Tunis,0,0
+Bi Analyst,"sql, node.js, spring boot, etl, power bi",Gabès,5,bi_analyst,"sql, etl, power bi",Monastir,0,0
+Qa Engineer,"spark, bash, ssh, jira, postman",Tunis,3,qa_engineer,"selenium, jira, postman",Sfax,3,0
+Frontend Dev,"ansible, encryption, excel, react, vue.js",Tunis,0,frontend_dev,"react, javascript, css",Sfax,4,0
+Frontend Dev,"airflow, vue.js, javascript, react, html",Sfax,0,frontend_dev,"javascript, react, html",Tunis,4,0
+Backend Dev,"node.js, selenium, sql, spring boot, kanban",Monastir,6,backend_dev,"sql, node.js, java",Monastir,3,1
+Data Engineer,"hadoop, design patterns, airflow, etl, mlflow",Monastir,6,data_engineer,"hadoop, spark, python",Monastir,0,0
+Ml Engineer,"mlflow, tensorflow, react, scikit-learn, keras",Sousse,5,ml_engineer,"mlflow, python, tensorflow",Monastir,4,0
+Frontend Dev,"react, postman, spark, javascript, html",Gabès,4,frontend_dev,"html, css, react",Tunis,2,0
+Backend Dev,"java, spark, planning, node.js, python",Tunis,3,backend_dev,"java, spring boot, python",Monastir,5,0
+Qa Engineer,"postman, javascript, spring boot, selenium, pandas",Gabès,0,qa_engineer,"test automation, jira, selenium",Monastir,5,0
+Sysadmin,"bash, tensorflow, kubernetes, css, windows server",Gabès,0,sysadmin,"bash, networking, ssh",Monastir,3,0
+Frontend Dev,"excel, python, aws, html, vue.js",Monastir,2,frontend_dev,"html, css, vue.js",Monastir,0,1
+Backend Dev,"node.js, planning, spark, spring boot, python",Gabès,3,backend_dev,"sql, java, node.js",Gabès,1,0
+Bi Analyst,"power bi, etl, ssh, sql, dashboards",Sfax,1,bi_analyst,"tableau, power bi, sql",Sfax,4,0
+Scrum Master,"node.js, scrum, planning, agile, terraform",Sfax,1,scrum_master,"planning, agile, kanban",Sousse,1,0
+Cloud Engineer,"terraform, gcp, tableau, devops, aws",Sousse,2,cloud_engineer,"azure, terraform, gcp",Monastir,1,0
+Scrum Master,"agile, planning, kanban, jira, ansible",Sfax,4,scrum_master,"agile, scrum, kanban",Sousse,1,0
+Scrum Master,"scrum, kanban, windows server, jira, cypress",Gabès,1,scrum_master,"kanban, agile, scrum",Sfax,5,0
+Software Architect,"react, hadoop, uml, architecture logicielle, java",Gabès,2,software_architect,"java, design patterns, uml",Monastir,4,0
+Qa Engineer,"mlflow, test automation, selenium, postman, node.js",Ariana,0,qa_engineer,"selenium, test automation, cypress",Tunis,2,0
+Cloud Engineer,"azure, wireshark, terraform, docker, devops",Sfax,2,cloud_engineer,"devops, azure, aws",Tunis,2,0
+Data Analyst,"sql, python, bash, power bi, tableau",Sfax,2,data_analyst,"power bi, python, tableau",Monastir,0,0
+Data Engineer,"etl, hadoop, airflow, sql, spark",Ariana,2,data_engineer,"spark, python, airflow",Monastir,1,0
+Qa Engineer,"selenium, devops, test automation, wireshark, spark",Sfax,0,qa_engineer,"test automation, postman, jira",Monastir,4,0
+Devops Engineer,"scrum, kubernetes, ansible, terraform, nmap",Sousse,0,devops_engineer,"kubernetes, jenkins, terraform",Gabès,3,0
+Cybersecurity Engineer,"nmap, docker, encryption, spark, kanban",Sfax,3,cybersecurity_engineer,"nmap, firewall, kali linux",Gabès,0,0
+Bi Analyst,"sql, etl, matplotlib, node.js, tableau",Sousse,4,bi_analyst,"tableau, power bi, dashboards",Sfax,4,0
+Fullstack Dev,"tensorflow, mongodb, javascript, node.js, cypress",Gabès,2,fullstack_dev,"node.js, javascript, mongodb",Monastir,1,0
+Frontend Dev,"vue.js, react, ansible, css, tensorflow",Monastir,0,frontend_dev,"html, javascript, css",Gabès,3,0
+Frontend Dev,"vue.js, node.js, css, html, react",Ariana,3,frontend_dev,"react, html, vue.js",Sousse,3,0
+Devops Engineer,"jenkins, ansible, power bi, terraform, docker",Gabès,4,devops_engineer,"kubernetes, jenkins, terraform",Ariana,4,0
+Fullstack Dev,"node.js, sql, mongodb, react, javascript",Monastir,3,fullstack_dev,"mongodb, sql, node.js",Ariana,1,0
+Data Engineer,"python, etl, spark, selenium, test automation",Sousse,3,data_engineer,"etl, python, hadoop",Ariana,3,0
+Fullstack Dev,"sql, react, mongodb, encryption, gcp",Tunis,4,fullstack_dev,"mongodb, javascript, node.js",Sousse,1,0
+Cloud Engineer,"airflow, excel, terraform, azure, aws",Sfax,5,cloud_engineer,"gcp, terraform, aws",Sousse,5,0
+Fullstack Dev,"sql, react, hadoop, test automation, firewall",Monastir,3,fullstack_dev,"javascript, sql, react",Sfax,4,0
+Backend Dev,"sql, java, airflow, uml, css",Ariana,2,backend_dev,"python, sql, java",Ariana,1,1
+Cybersecurity Engineer,"wireshark, tableau, encryption, firewall, design patterns",Sfax,2,cybersecurity_engineer,"firewall, nmap, kali linux",Sfax,4,0
+Data Engineer,"etl, hadoop, airflow, devops, ansible",Tunis,2,data_engineer,"airflow, spark, etl",Sfax,3,0
+Bi Analyst,"tableau, etl, airflow, power bi, jira",Sousse,5,bi_analyst,"etl, dashboards, power bi",Monastir,4,0
+Data Scientist,"terraform, sql, scikit-learn, pandas, jira",Tunis,1,data_scientist,"scikit-learn, matplotlib, sql",Tunis,2,0
+Backend Dev,"spark, networking, spring boot, python, terraform",Sfax,2,backend_dev,"python, sql, java",Ariana,5,0
+Software Architect,"networking, uml, microservices, java, aws",Tunis,2,software_architect,"design patterns, java, architecture logicielle",Sousse,4,0
+Software Architect,"microservices, ssh, architecture logicielle, test automation, java",Sfax,3,software_architect,"architecture logicielle, java, design patterns",Monastir,0,0
+Software Architect,"java, wireshark, architecture logicielle, microservices, uml",Sfax,5,software_architect,"architecture logicielle, uml, design patterns",Sousse,1,0
+Qa Engineer,"selenium, jira, selenium, tableau, docker",Ariana,2,qa_engineer,"postman, test automation, jira",Ariana,1,0
+Frontend Dev,"javascript, html, vue.js, css, javascript",Gabès,4,frontend_dev,"vue.js, css, html",Sfax,4,0
+Fullstack Dev,"mongodb, node.js, javascript, javascript, nmap",Gabès,3,fullstack_dev,"sql, mongodb, javascript",Sousse,5,0
+Data Analyst,"tableau, bash, power bi, matplotlib, python",Tunis,6,data_analyst,"python, excel, power bi",Tunis,1,1
+Backend Dev,"design patterns, spring boot, scrum, sql, python",Sousse,2,backend_dev,"java, python, spring boot",Tunis,2,0
+Ml Engineer,"scikit-learn, sql, mlflow, java, python",Monastir,6,ml_engineer,"scikit-learn, python, tensorflow",Gabès,1,0
+Data Engineer,"matplotlib, spark, python, hadoop, etl",Sfax,5,data_engineer,"hadoop, python, spark",Ariana,2,0
+Data Analyst,"sql, linux, python, power bi, kubernetes",Tunis,5,data_analyst,"sql, power bi, excel",Monastir,1,0
+Frontend Dev,"html, architecture logicielle, planning, vue.js, react",Ariana,4,frontend_dev,"vue.js, css, javascript",Monastir,2,0
+Backend Dev,"mongodb, ansible, tensorflow, spring boot, python",Sfax,1,backend_dev,"sql, python, spring boot",Sfax,5,0
+Backend Dev,"spring boot, tensorflow, python, python, node.js",Sousse,1,backend_dev,"python, sql, node.js",Sfax,3,0
+Scrum Master,"scrum, test automation, agile, jira, airflow",Monastir,3,scrum_master,"kanban, agile, planning",Monastir,5,0
+Data Scientist,"scikit-learn, scrum, javascript, python, matplotlib",Sousse,4,data_scientist,"pandas, matplotlib, python",Monastir,0,0
+Backend Dev,"architecture logicielle, spring boot, sql, mongodb, node.js",Sousse,3,backend_dev,"python, sql, spring boot",Sousse,2,1
+Qa Engineer,"kubernetes, jira, cypress, aws, test automation",Monastir,1,qa_engineer,"jira, test automation, selenium",Monastir,4,0
+Data Analyst,"excel, wireshark, tableau, sql, python",Tunis,5,data_analyst,"sql, tableau, power bi",Monastir,4,0
+Sysadmin,"bash, windows server, linux, spark, networking",Ariana,2,sysadmin,"networking, windows server, ssh",Gabès,1,0
+Cybersecurity Engineer,"kali linux, encryption, design patterns, firewall, nmap",Monastir,4,cybersecurity_engineer,"kali linux, firewall, wireshark",Monastir,0,1
+Ml Engineer,"tensorflow, mlflow, python, pandas, postman",Ariana,2,ml_engineer,"python, mlflow, tensorflow",Sousse,4,0
+Fullstack Dev,"mongodb, javascript, sql, react, node.js",Sousse,0,fullstack_dev,"node.js, sql, mongodb",Gabès,1,0
+Software Architect,"python, architecture logicielle, design patterns, etl, dashboards",Tunis,3,software_architect,"uml, microservices, design patterns",Tunis,5,0
+Bi Analyst,"microservices, dashboards, sql, azure, tableau",Sfax,0,bi_analyst,"dashboards, sql, tableau",Ariana,5,0
+Cybersecurity Engineer,"nmap, power bi, kali linux, encryption, cypress",Gabès,1,cybersecurity_engineer,"kali linux, wireshark, encryption",Gabès,3,0
+Sysadmin,"microservices, ssh, linux, windows server, bash",Gabès,5,sysadmin,"networking, bash, ssh",Ariana,0,0
+Cybersecurity Engineer,"encryption, nmap, kali linux, airflow, aws",Gabès,6,cybersecurity_engineer,"encryption, wireshark, firewall",Sousse,4,0
+Data Scientist,"pandas, selenium, scikit-learn, sql, vue.js",Tunis,6,data_scientist,"sql, scikit-learn, pandas",Sfax,4,0
+Scrum Master,"agile, jira, planning, spark, kanban",Sousse,6,scrum_master,"agile, planning, scrum",Monastir,0,0
+Frontend Dev,"javascript, vue.js, react, html, kanban",Ariana,6,frontend_dev,"javascript, html, vue.js",Ariana,5,1
+Backend Dev,"java, spring boot, sql, node.js, python",Sousse,3,backend_dev,"node.js, spring boot, python",Sfax,1,0
+Data Scientist,"gcp, spark, ssh, python, matplotlib",Gabès,3,data_scientist,"sql, matplotlib, python",Sousse,2,0
+Data Engineer,"test automation, spark, hadoop, tensorflow, pandas",Ariana,6,data_engineer,"airflow, hadoop, spark",Sfax,3,0
+Bi Analyst,"python, spark, etl, dashboards, ansible",Sfax,0,bi_analyst,"power bi, tableau, etl",Ariana,1,0
+Cybersecurity Engineer,"mlflow, pandas, jenkins, firewall, wireshark",Gabès,2,cybersecurity_engineer,"encryption, wireshark, nmap",Ariana,2,0
+Backend Dev,"mongodb, python, node.js, html, java",Ariana,4,backend_dev,"spring boot, python, node.js",Sousse,3,0
+Qa Engineer,"cypress, test automation, architecture logicielle, keras, postman",Monastir,3,qa_engineer,"jira, test automation, selenium",Monastir,3,0
+Backend Dev,"spring boot, python, devops, java, tensorflow",Sfax,1,backend_dev,"java, node.js, spring boot",Ariana,5,0
+Qa Engineer,"networking, postman, selenium, cypress, selenium",Sfax,6,qa_engineer,"postman, selenium, jira",Monastir,3,0
+Cybersecurity Engineer,"kali linux, firewall, nmap, windows server, wireshark",Sousse,1,cybersecurity_engineer,"nmap, firewall, wireshark",Sousse,3,0
+Bi Analyst,"windows server, etl, tableau, firewall, react",Sousse,2,bi_analyst,"power bi, etl, dashboards",Tunis,5,0
+Backend Dev,"node.js, python, microservices, spring boot, java",Sousse,3,backend_dev,"node.js, spring boot, sql",Tunis,2,0
+Frontend Dev,"cypress, javascript, javascript, react, wireshark",Ariana,6,frontend_dev,"css, javascript, html",Gabès,4,0
+Frontend Dev,"react, vue.js, html, javascript, aws",Monastir,1,frontend_dev,"html, react, vue.js",Monastir,4,0
+Data Analyst,"excel, kali linux, python, matplotlib, sql",Monastir,5,data_analyst,"excel, power bi, tableau",Tunis,3,0
+Cybersecurity Engineer,"kali linux, nmap, microservices, docker, pandas",Ariana,0,cybersecurity_engineer,"firewall, wireshark, encryption",Monastir,0,0
+Devops Engineer,"kubernetes, terraform, docker, tableau, jenkins",Gabès,3,devops_engineer,"jenkins, kubernetes, ansible",Monastir,1,0
+Cybersecurity Engineer,"firewall, wireshark, ssh, kubernetes, kali linux",Monastir,4,cybersecurity_engineer,"wireshark, nmap, kali linux",Gabès,5,0
+Scrum Master,"jira, jira, scrum, node.js, dashboards",Monastir,5,scrum_master,"kanban, planning, jira",Sfax,2,0
+Frontend Dev,"javascript, vue.js, css, bash, spark",Gabès,3,frontend_dev,"javascript, vue.js, css",Monastir,3,0
+Fullstack Dev,"keras, react, kanban, javascript, mongodb",Ariana,6,fullstack_dev,"mongodb, node.js, javascript",Tunis,2,0
+Ml Engineer,"docker, kanban, scrum, keras, tensorflow",Sousse,4,ml_engineer,"scikit-learn, python, mlflow",Monastir,3,0
+Scrum Master,"planning, jira, kanban, scrum, agile",Tunis,1,scrum_master,"agile, scrum, kanban",Ariana,1,0
+Cloud Engineer,"gcp, react, terraform, aws, airflow",Sfax,0,cloud_engineer,"aws, gcp, devops",Sfax,1,0
+Cloud Engineer,"kali linux, azure, cypress, scrum, devops",Ariana,6,cloud_engineer,"azure, devops, terraform",Gabès,4,0
+Scrum Master,"planning, jira, planning, kanban, docker",Gabès,1,scrum_master,"scrum, kanban, agile",Ariana,4,0
+Software Architect,"java, architecture logicielle, design patterns, mongodb, microservices",Gabès,1,software_architect,"design patterns, uml, microservices",Sfax,2,0
+Scrum Master,"scrum, jira, css, kanban, planning",Gabès,1,scrum_master,"jira, planning, scrum",Monastir,1,0
+Backend Dev,"docker, node.js, design patterns, aws, java",Gabès,0,backend_dev,"spring boot, python, sql",Gabès,5,0
+Backend Dev,"node.js, python, spring boot, java, sql",Monastir,0,backend_dev,"sql, spring boot, java",Sfax,3,0
+Data Scientist,"uml, kanban, pandas, matplotlib, scikit-learn",Gabès,0,data_scientist,"matplotlib, python, sql",Sfax,5,0
+Frontend Dev,"microservices, css, sql, docker, vue.js",Gabès,3,frontend_dev,"javascript, react, vue.js",Sousse,1,0
+Bi Analyst,"power bi, etl, sql, dashboards, windows server",Sousse,1,bi_analyst,"sql, etl, tableau",Tunis,1,0
+Devops Engineer,"power bi, jenkins, encryption, ansible, terraform",Gabès,0,devops_engineer,"terraform, ansible, jenkins",Gabès,2,0
+Fullstack Dev,"sql, spring boot, kubernetes, javascript, mongodb",Sfax,4,fullstack_dev,"mongodb, node.js, react",Ariana,3,0
+Data Scientist,"pandas, matplotlib, tensorflow, python, firewall",Tunis,3,data_scientist,"python, pandas, scikit-learn",Sousse,3,0
+Data Analyst,"python, tableau, excel, sql, css",Tunis,4,data_analyst,"sql, power bi, python",Sfax,4,0
+Software Architect,"ssh, java, microservices, design patterns, excel",Monastir,5,software_architect,"design patterns, architecture logicielle, uml",Ariana,5,0
+Bi Analyst,"scikit-learn, etl, node.js, power bi, tableau",Monastir,4,bi_analyst,"etl, dashboards, tableau",Ariana,2,0
+Frontend Dev,"css, test automation, hadoop, vue.js, kanban",Sfax,4,frontend_dev,"vue.js, javascript, css",Sousse,5,0
+Scrum Master,"planning, encryption, jira, css, scrum",Sousse,1,scrum_master,"scrum, kanban, jira",Sousse,0,1
+Cloud Engineer,"aws, azure, microservices, terraform, devops",Tunis,2,cloud_engineer,"gcp, devops, azure",Sfax,1,0
+Software Architect,"cypress, microservices, java, excel, uml",Monastir,3,software_architect,"microservices, uml, design patterns",Monastir,4,0
+Cloud Engineer,"azure, java, terraform, gcp, tableau",Sousse,2,cloud_engineer,"devops, terraform, aws",Monastir,1,0
+Software Architect,"java, java, microservices, uml, architecture logicielle",Ariana,1,software_architect,"architecture logicielle, microservices, java",Ariana,5,0
+Cybersecurity Engineer,"firewall, encryption, nmap, design patterns, wireshark",Sousse,4,cybersecurity_engineer,"firewall, encryption, kali linux",Sousse,1,1
+Cybersecurity Engineer,"node.js, design patterns, encryption, firewall, kali linux",Gabès,2,cybersecurity_engineer,"nmap, firewall, wireshark",Gabès,5,0
+Bi Analyst,"devops, sql, nmap, tableau, bash",Gabès,3,bi_analyst,"power bi, dashboards, tableau",Sfax,4,0
+Data Analyst,"python, firewall, power bi, wireshark, excel",Sousse,2,data_analyst,"tableau, power bi, python",Tunis,3,0
+Qa Engineer,"vue.js, postman, jira, uml, cypress",Monastir,6,qa_engineer,"postman, selenium, jira",Gabès,2,0
+Data Analyst,"react, kali linux, excel, tableau, sql",Gabès,5,data_analyst,"python, power bi, sql",Ariana,0,0
+Frontend Dev,"firewall, javascript, uml, css, html",Gabès,2,frontend_dev,"vue.js, css, html",Ariana,3,0
+Data Analyst,"azure, tableau, python, excel, sql",Gabès,1,data_analyst,"python, excel, tableau",Monastir,5,0
+Data Engineer,"ansible, etl, spark, javascript, networking",Ariana,6,data_engineer,"hadoop, airflow, spark",Tunis,2,0
+Bi Analyst,"etl, power bi, sql, dashboards, dashboards",Gabès,5,bi_analyst,"power bi, tableau, sql",Sousse,2,0
+Cloud Engineer,"hadoop, postman, azure, terraform, devops",Sfax,1,cloud_engineer,"gcp, devops, azure",Sfax,0,1
+Frontend Dev,"html, javascript, css, vue.js, agile",Monastir,6,frontend_dev,"html, css, react",Monastir,2,1
+Data Analyst,"scrum, sql, html, power bi, windows server",Tunis,4,data_analyst,"sql, python, excel",Tunis,4,0
+Backend Dev,"spring boot, python, etl, jenkins, vue.js",Ariana,4,backend_dev,"sql, spring boot, java",Tunis,4,0
+Data Scientist,"python, wireshark, sql, matplotlib, react",Gabès,6,data_scientist,"python, matplotlib, sql",Sousse,5,0
+Ml Engineer,"keras, mlflow, python, dashboards, tensorflow",Sousse,2,ml_engineer,"keras, python, scikit-learn",Ariana,3,0
+Data Scientist,"python, pandas, scikit-learn, javascript, sql",Tunis,5,data_scientist,"sql, scikit-learn, pandas",Ariana,4,0
+Devops Engineer,"keras, kubernetes, ansible, docker, windows server",Tunis,4,devops_engineer,"ansible, docker, jenkins",Sfax,5,0
+Devops Engineer,"firewall, javascript, docker, terraform, kubernetes",Sfax,0,devops_engineer,"terraform, kubernetes, ansible",Tunis,3,0
+Software Architect,"architecture logicielle, uml, design patterns, keras, java",Ariana,5,software_architect,"microservices, java, architecture logicielle",Sfax,2,0
+Cloud Engineer,"gcp, matplotlib, scikit-learn, javascript, devops",Sousse,2,cloud_engineer,"azure, devops, gcp",Monastir,0,0
+Data Analyst,"airflow, tableau, selenium, css, power bi",Sousse,3,data_analyst,"tableau, excel, power bi",Tunis,4,0
+Fullstack Dev,"node.js, sql, react, mongodb, javascript",Gabès,0,fullstack_dev,"node.js, javascript, sql",Sousse,1,0
+Scrum Master,"firewall, agile, architecture logicielle, planning, jira",Monastir,5,scrum_master,"planning, kanban, jira",Monastir,1,1
+Cybersecurity Engineer,"wireshark, tableau, firewall, networking, etl",Sousse,6,cybersecurity_engineer,"wireshark, nmap, kali linux",Ariana,3,0
+Bi Analyst,"etl, nmap, sql, power bi, tableau",Sfax,4,bi_analyst,"tableau, dashboards, sql",Sfax,3,1
+Devops Engineer,"jira, encryption, jenkins, kubernetes, terraform",Ariana,6,devops_engineer,"docker, terraform, kubernetes",Ariana,1,1
+Cybersecurity Engineer,"firewall, encryption, wireshark, power bi, nmap",Sfax,5,cybersecurity_engineer,"encryption, firewall, kali linux",Sfax,1,1
+Data Engineer,"hadoop, spark, design patterns, scikit-learn, etl",Sfax,2,data_engineer,"spark, python, hadoop",Sfax,2,1
+Sysadmin,"java, windows server, linux, bash, networking",Ariana,5,sysadmin,"bash, windows server, ssh",Ariana,0,1
+Scrum Master,"test automation, agile, kanban, jira, planning",Gabès,3,scrum_master,"planning, kanban, scrum",Gabès,0,1
+Fullstack Dev,"javascript, linux, node.js, mongodb, react",Tunis,5,fullstack_dev,"mongodb, react, sql",Tunis,5,1
+Devops Engineer,"test automation, power bi, ansible, gcp, jenkins",Tunis,4,devops_engineer,"jenkins, ansible, terraform",Tunis,0,1
+Sysadmin,"bash, windows server, linux, selenium, react",Sfax,5,sysadmin,"linux, ssh, bash",Sfax,4,1
+Cybersecurity Engineer,"css, nmap, networking, kali linux, encryption",Ariana,5,cybersecurity_engineer,"encryption, firewall, nmap",Ariana,3,1
+Qa Engineer,"selenium, postman, jira, cypress, scikit-learn",Tunis,5,qa_engineer,"test automation, selenium, postman",Tunis,2,1
+Frontend Dev,"vue.js, etl, css, html, selenium",Sfax,3,frontend_dev,"css, vue.js, react",Sfax,1,1
+Sysadmin,"networking, windows server, ssh, networking, linux",Ariana,4,sysadmin,"ssh, linux, networking",Ariana,3,1
+Ml Engineer,"scikit-learn, mlflow, keras, mlflow, tensorflow",Gabès,4,ml_engineer,"python, tensorflow, mlflow",Gabès,3,1
+Cybersecurity Engineer,"azure, wireshark, tensorflow, encryption, nmap",Ariana,6,cybersecurity_engineer,"kali linux, encryption, nmap",Ariana,2,1
+Backend Dev,"gcp, excel, node.js, spring boot, python",Monastir,4,backend_dev,"node.js, python, sql",Monastir,3,1
+Bi Analyst,"tableau, sql, azure, power bi, pandas",Monastir,3,bi_analyst,"tableau, power bi, etl",Monastir,1,1
+Scrum Master,"encryption, scrum, jira, pandas, kanban",Tunis,3,scrum_master,"kanban, scrum, planning",Tunis,2,1
+Ml Engineer,"keras, cypress, spring boot, mlflow, jenkins",Monastir,4,ml_engineer,"keras, mlflow, scikit-learn",Monastir,3,1
+Fullstack Dev,"kali linux, ssh, node.js, react, javascript",Tunis,5,fullstack_dev,"sql, react, javascript",Tunis,3,1
+Data Scientist,"scikit-learn, python, sql, matplotlib, scikit-learn",Tunis,6,data_scientist,"scikit-learn, python, matplotlib",Tunis,3,1
+Bi Analyst,"dashboards, tableau, excel, power bi, etl",Gabès,4,bi_analyst,"etl, dashboards, tableau",Gabès,4,1
+Data Engineer,"excel, hadoop, python, spring boot, etl",Sfax,3,data_engineer,"hadoop, python, etl",Sfax,2,1
+Devops Engineer,"docker, terraform, kubernetes, etl, jenkins",Tunis,3,devops_engineer,"ansible, kubernetes, terraform",Tunis,1,1
+Qa Engineer,"selenium, jenkins, test automation, node.js, postman",Tunis,2,qa_engineer,"test automation, postman, jira",Tunis,2,1
+Backend Dev,"node.js, java, sql, mlflow, spring boot",Sousse,3,backend_dev,"node.js, java, sql",Sousse,2,1
+Sysadmin,"bash, ssh, linux, windows server, ssh",Gabès,1,sysadmin,"windows server, ssh, bash",Gabès,0,1
+Sysadmin,"windows server, networking, linux, jira, jenkins",Sfax,4,sysadmin,"linux, networking, ssh",Sfax,2,1
+Sysadmin,"linux, windows server, devops, microservices, vue.js",Monastir,6,sysadmin,"linux, networking, windows server",Monastir,4,1
+Software Architect,"microservices, keras, architecture logicielle, design patterns, spark",Sousse,1,software_architect,"uml, architecture logicielle, design patterns",Sousse,1,1
+Ml Engineer,"mlflow, python, scikit-learn, tensorflow, keras",Gabès,5,ml_engineer,"mlflow, keras, python",Gabès,2,1
+Fullstack Dev,"spark, javascript, mongodb, react, sql",Sfax,2,fullstack_dev,"javascript, mongodb, react",Sfax,2,1
+Bi Analyst,"dashboards, uml, css, power bi, etl",Monastir,1,bi_analyst,"power bi, sql, etl",Monastir,1,1
+Backend Dev,"java, python, tensorflow, spring boot, node.js",Gabès,3,backend_dev,"node.js, java, spring boot",Gabès,1,1
+Ml Engineer,"tensorflow, encryption, scikit-learn, python, sql",Gabès,6,ml_engineer,"python, mlflow, scikit-learn",Gabès,1,1
+Software Architect,"agile, javascript, uml, design patterns, architecture logicielle",Sousse,5,software_architect,"architecture logicielle, microservices, design patterns",Sousse,4,1
+Data Analyst,"architecture logicielle, python, excel, cypress, tableau",Ariana,5,data_analyst,"tableau, python, power bi",Ariana,3,1
+Data Engineer,"python, spark, airflow, microservices, etl",Sousse,6,data_engineer,"etl, spark, hadoop",Sousse,4,1
+Bi Analyst,"dashboards, python, agile, tableau, firewall",Sfax,3,bi_analyst,"sql, tableau, dashboards",Sfax,1,1
+Qa Engineer,"test automation, mongodb, cypress, test automation, jira",Gabès,6,qa_engineer,"cypress, postman, test automation",Gabès,4,1
+Qa Engineer,"gcp, test automation, jira, firewall, postman",Sfax,6,qa_engineer,"test automation, postman, jira",Sfax,0,1
+Bi Analyst,"cypress, dashboards, tableau, power bi, tensorflow",Tunis,4,bi_analyst,"etl, dashboards, tableau",Tunis,4,1
+Bi Analyst,"etl, selenium, power bi, sql, dashboards",Sfax,2,bi_analyst,"power bi, etl, sql",Sfax,0,1
+Data Engineer,"mlflow, java, spark, python, airflow",Ariana,5,data_engineer,"spark, etl, airflow",Ariana,5,1
+Cybersecurity Engineer,"nmap, firewall, dashboards, wireshark, encryption",Gabès,5,cybersecurity_engineer,"kali linux, encryption, wireshark",Gabès,0,1
+Cybersecurity Engineer,"encryption, firewall, kali linux, nmap, microservices",Monastir,2,cybersecurity_engineer,"kali linux, nmap, wireshark",Monastir,1,1
+Software Architect,"uml, microservices, java, ssh, architecture logicielle",Ariana,5,software_architect,"architecture logicielle, design patterns, microservices",Ariana,4,1
+Bi Analyst,"devops, sql, power bi, etl, tableau",Monastir,3,bi_analyst,"power bi, sql, tableau",Monastir,2,1
+Devops Engineer,"kubernetes, terraform, vue.js, docker, css",Monastir,6,devops_engineer,"terraform, jenkins, docker",Monastir,0,1
+Bi Analyst,"etl, sql, devops, dashboards, kubernetes",Gabès,3,bi_analyst,"etl, dashboards, sql",Gabès,2,1
+Frontend Dev,"tensorflow, css, javascript, react, html",Monastir,5,frontend_dev,"react, javascript, html",Monastir,4,1
+Frontend Dev,"sql, terraform, vue.js, css, test automation",Sousse,6,frontend_dev,"html, vue.js, css",Sousse,1,1
+Backend Dev,"spring boot, python, wireshark, sql, node.js",Gabès,6,backend_dev,"sql, java, spring boot",Gabès,5,1
+Cloud Engineer,"gcp, terraform, aws, nmap, devops",Ariana,6,cloud_engineer,"terraform, devops, gcp",Ariana,0,1
+Data Scientist,"scikit-learn, node.js, matplotlib, pandas, spark",Gabès,4,data_scientist,"sql, pandas, matplotlib",Gabès,3,1
+Qa Engineer,"postman, tensorflow, pandas, selenium, jira",Monastir,5,qa_engineer,"test automation, postman, selenium",Monastir,2,1
+Qa Engineer,"test automation, postman, selenium, jira, encryption",Gabès,6,qa_engineer,"postman, jira, test automation",Gabès,2,1
+Cybersecurity Engineer,"wireshark, nmap, mongodb, encryption, firewall",Sfax,0,cybersecurity_engineer,"wireshark, encryption, nmap",Sfax,0,1
+Scrum Master,"kanban, scrum, hadoop, sql, jira",Monastir,5,scrum_master,"jira, scrum, planning",Monastir,0,1
+Sysadmin,"bash, networking, kanban, linux, windows server",Tunis,3,sysadmin,"windows server, ssh, linux",Tunis,0,1
+Data Engineer,"etl, spark, hadoop, airflow, python",Sfax,6,data_engineer,"hadoop, etl, spark",Sfax,0,1
+Ml Engineer,"mlflow, python, tableau, tensorflow, encryption",Gabès,1,ml_engineer,"tensorflow, keras, mlflow",Gabès,1,1
+Bi Analyst,"etl, tableau, scikit-learn, sql, matplotlib",Sfax,6,bi_analyst,"sql, etl, dashboards",Sfax,2,1
+Data Analyst,"linux, power bi, sql, aws, excel",Gabès,4,data_analyst,"power bi, excel, tableau",Gabès,3,1
+Qa Engineer,"scikit-learn, postman, cypress, selenium, html",Ariana,4,qa_engineer,"test automation, selenium, postman",Ariana,4,1
+Fullstack Dev,"node.js, power bi, agile, sql, react",Ariana,6,fullstack_dev,"javascript, sql, node.js",Ariana,2,1
+Software Architect,"uml, design patterns, microservices, architecture logicielle, tensorflow",Tunis,2,software_architect,"microservices, architecture logicielle, design patterns",Tunis,1,1
+Data Engineer,"hadoop, bash, airflow, spark, etl",Gabès,6,data_engineer,"airflow, python, hadoop",Gabès,0,1
+Qa Engineer,"selenium, jira, cypress, test automation, java",Sousse,4,qa_engineer,"jira, test automation, selenium",Sousse,2,1
+Cloud Engineer,"azure, tableau, terraform, aws, devops",Gabès,5,cloud_engineer,"azure, terraform, gcp",Gabès,3,1
+Fullstack Dev,"sql, networking, design patterns, sql, javascript",Monastir,2,fullstack_dev,"node.js, javascript, sql",Monastir,2,1
+Cloud Engineer,"gcp, azure, airflow, devops, terraform",Sfax,3,cloud_engineer,"azure, devops, terraform",Sfax,2,1
+Software Architect,"agile, design patterns, microservices, uml, architecture logicielle",Gabès,3,software_architect,"architecture logicielle, design patterns, java",Gabès,1,1
+Bi Analyst,"tableau, power bi, sql, windows server, python",Ariana,6,bi_analyst,"power bi, sql, tableau",Ariana,1,1
+Data Analyst,"excel, terraform, power bi, python, spark",Ariana,1,data_analyst,"tableau, python, power bi",Ariana,0,1
+Data Engineer,"kanban, scrum, etl, python, spark",Ariana,1,data_engineer,"etl, airflow, python",Ariana,1,1
+Ml Engineer,"python, tensorflow, networking, scikit-learn, keras",Monastir,6,ml_engineer,"python, mlflow, tensorflow",Monastir,3,1
+Bi Analyst,"tableau, selenium, power bi, nmap, etl",Sfax,0,bi_analyst,"power bi, sql, etl",Sfax,0,1
+Data Analyst,"agile, bash, power bi, excel, tableau",Ariana,1,data_analyst,"power bi, excel, tableau",Ariana,1,1
+Data Analyst,"python, excel, power bi, sql, agile",Ariana,5,data_analyst,"python, excel, tableau",Ariana,2,1
+Scrum Master,"test automation, kanban, planning, agile, jira",Monastir,5,scrum_master,"jira, scrum, kanban",Monastir,5,1
+Data Analyst,"sql, python, power bi, devops, tableau",Sfax,5,data_analyst,"power bi, sql, python",Sfax,4,1
+Qa Engineer,"architecture logicielle, ansible, cypress, selenium, jira",Tunis,2,qa_engineer,"selenium, cypress, postman",Tunis,0,1
+Scrum Master,"mongodb, jira, keras, cypress, planning",Sfax,6,scrum_master,"kanban, jira, planning",Sfax,5,1
+Cloud Engineer,"gcp, azure, devops, javascript, tensorflow",Monastir,5,cloud_engineer,"terraform, gcp, azure",Monastir,0,1
+Fullstack Dev,"javascript, wireshark, react, mongodb, node.js",Gabès,1,fullstack_dev,"mongodb, javascript, sql",Gabès,0,1
+Ml Engineer,"keras, selenium, mlflow, kanban, tensorflow",Sousse,3,ml_engineer,"keras, mlflow, python",Sousse,2,1
+Ml Engineer,"tensorflow, scikit-learn, python, kali linux, python",Monastir,3,ml_engineer,"tensorflow, mlflow, scikit-learn",Monastir,1,1
+Fullstack Dev,"sql, javascript, mongodb, power bi, node.js",Monastir,5,fullstack_dev,"javascript, mongodb, node.js",Monastir,2,1
+Qa Engineer,"postman, sql, cypress, selenium, jira",Monastir,6,qa_engineer,"jira, selenium, test automation",Monastir,1,1
+Data Scientist,"sql, python, mlflow, ansible, pandas",Tunis,6,data_scientist,"pandas, scikit-learn, sql",Tunis,3,1
+Data Analyst,"pandas, design patterns, sql, power bi, tableau",Sfax,0,data_analyst,"tableau, python, power bi",Sfax,0,1
+Sysadmin,"ssh, linux, windows server, networking, microservices",Tunis,2,sysadmin,"bash, linux, windows server",Tunis,1,1
+Software Architect,"python, design patterns, microservices, uml, architecture logicielle",Sousse,4,software_architect,"microservices, design patterns, uml",Sousse,4,1
+Devops Engineer,"terraform, jenkins, ansible, ssh, test automation",Monastir,0,devops_engineer,"jenkins, kubernetes, ansible",Monastir,0,1
+Sysadmin,"ssh, networking, bash, windows server, power bi",Sfax,0,sysadmin,"ssh, linux, bash",Sfax,0,1
+Software Architect,"design patterns, design patterns, architecture logicielle, planning, microservices",Monastir,5,software_architect,"architecture logicielle, java, microservices",Monastir,2,1
+Ml Engineer,"mlflow, spark, tensorflow, networking, scikit-learn",Gabès,3,ml_engineer,"scikit-learn, python, tensorflow",Gabès,3,1
+Software Architect,"java, vue.js, architecture logicielle, microservices, bash",Sousse,5,software_architect,"microservices, java, uml",Sousse,0,1
+Cloud Engineer,"terraform, azure, aws, networking, kanban",Sfax,3,cloud_engineer,"azure, aws, terraform",Sfax,3,1
+Ml Engineer,"keras, tensorflow, mlflow, jenkins, kali linux",Tunis,1,ml_engineer,"tensorflow, mlflow, keras",Tunis,1,1
+Scrum Master,"agile, kanban, tensorflow, scrum, microservices",Gabès,2,scrum_master,"scrum, agile, kanban",Gabès,2,1
+Software Architect,"design patterns, java, nmap, architecture logicielle, uml",Sfax,2,software_architect,"java, design patterns, uml",Sfax,2,1
+Scrum Master,"html, scrum, planning, kanban, agile",Monastir,5,scrum_master,"agile, jira, planning",Monastir,0,1
+Sysadmin,"networking, bash, linux, ssh, javascript",Sousse,2,sysadmin,"ssh, bash, networking",Sousse,0,1
+Software Architect,"design patterns, microservices, design patterns, architecture logicielle, uml",Tunis,5,software_architect,"uml, microservices, design patterns",Tunis,0,1
+Devops Engineer,"terraform, azure, kubernetes, ansible, docker",Monastir,5,devops_engineer,"kubernetes, jenkins, ansible",Monastir,4,1
+Backend Dev,"spring boot, python, java, nmap, node.js",Gabès,6,backend_dev,"spring boot, sql, node.js",Gabès,0,1
+Ml Engineer,"python, scikit-learn, tensorflow, tensorflow, agile",Sousse,2,ml_engineer,"python, scikit-learn, mlflow",Sousse,2,1
+Backend Dev,"sql, spring boot, node.js, java, cypress",Sfax,6,backend_dev,"python, node.js, spring boot",Sfax,4,1
+Fullstack Dev,"node.js, javascript, sql, pandas, dashboards",Tunis,1,fullstack_dev,"mongodb, javascript, node.js",Tunis,1,1
+Data Scientist,"aws, python, matplotlib, jenkins, windows server",Tunis,0,data_scientist,"python, scikit-learn, matplotlib",Tunis,0,1
+Devops Engineer,"terraform, css, terraform, kubernetes, ansible",Tunis,3,devops_engineer,"kubernetes, terraform, ansible",Tunis,3,1
+Frontend Dev,"react, windows server, vue.js, css, devops",Monastir,3,frontend_dev,"css, vue.js, html",Monastir,0,1
+Bi Analyst,"encryption, architecture logicielle, tableau, power bi, etl",Ariana,6,bi_analyst,"etl, dashboards, tableau",Ariana,2,1
+Scrum Master,"planning, matplotlib, kubernetes, jira, agile",Sfax,2,scrum_master,"jira, scrum, planning",Sfax,1,1
+Ml Engineer,"keras, terraform, python, html, mlflow",Ariana,4,ml_engineer,"scikit-learn, python, keras",Ariana,0,1
+Devops Engineer,"ansible, docker, kubernetes, jenkins, keras",Sfax,5,devops_engineer,"jenkins, ansible, kubernetes",Sfax,2,1
+Sysadmin,"bash, uml, linux, ssh, test automation",Sfax,6,sysadmin,"linux, networking, ssh",Sfax,0,1
+Ml Engineer,"java, kubernetes, mlflow, scikit-learn, keras",Tunis,6,ml_engineer,"scikit-learn, mlflow, python",Tunis,0,1
+Software Architect,"cypress, design patterns, uml, docker, architecture logicielle",Tunis,3,software_architect,"design patterns, microservices, architecture logicielle",Tunis,0,1
+Data Analyst,"excel, networking, nmap, sql, python",Sfax,2,data_analyst,"excel, sql, python",Sfax,2,1
+Ml Engineer,"kubernetes, keras, python, docker, mlflow",Ariana,1,ml_engineer,"mlflow, scikit-learn, keras",Ariana,1,1
+Devops Engineer,"docker, ansible, python, terraform, jenkins",Gabès,5,devops_engineer,"ansible, jenkins, kubernetes",Gabès,0,1
+Scrum Master,"vue.js, planning, kanban, jira, agile",Sousse,3,scrum_master,"planning, kanban, scrum",Sousse,0,1
+Cloud Engineer,"wireshark, azure, gcp, design patterns, devops",Sfax,5,cloud_engineer,"devops, azure, aws",Sfax,4,1
+Bi Analyst,"planning, etl, power bi, sql, gcp",Ariana,4,bi_analyst,"sql, etl, power bi",Ariana,2,1
+Ml Engineer,"uml, mlflow, python, mongodb, tensorflow",Monastir,4,ml_engineer,"mlflow, scikit-learn, python",Monastir,2,1
+Bi Analyst,"firewall, test automation, power bi, etl, tableau",Monastir,6,bi_analyst,"dashboards, etl, tableau",Monastir,4,1
+Devops Engineer,"terraform, ansible, design patterns, docker, python",Gabès,1,devops_engineer,"terraform, jenkins, docker",Gabès,1,1
+Devops Engineer,"kubernetes, jenkins, docker, ansible, design patterns",Sfax,4,devops_engineer,"jenkins, docker, kubernetes",Sfax,0,1
+Data Engineer,"etl, ssh, hadoop, python, scrum",Gabès,2,data_engineer,"etl, python, airflow",Gabès,2,1
+Bi Analyst,"dashboards, cypress, agile, etl, power bi",Ariana,2,bi_analyst,"tableau, power bi, dashboards",Ariana,0,1
+Sysadmin,"node.js, ssh, bash, networking, java",Sousse,4,sysadmin,"windows server, ssh, networking",Sousse,1,1
+Frontend Dev,"css, html, react, javascript, vue.js",Monastir,6,frontend_dev,"javascript, react, html",Monastir,3,1
+Sysadmin,"bash, excel, ssh, linux, aws",Tunis,5,sysadmin,"windows server, ssh, linux",Tunis,1,1
+Cybersecurity Engineer,"spring boot, pandas, wireshark, kali linux, firewall",Gabès,6,cybersecurity_engineer,"firewall, nmap, wireshark",Gabès,0,1
+Qa Engineer,"css, jira, test automation, postman, jenkins",Sousse,1,qa_engineer,"jira, test automation, cypress",Sousse,1,1
+Data Engineer,"spark, jenkins, python, airflow, etl",Ariana,4,data_engineer,"spark, python, hadoop",Ariana,0,1
+Frontend Dev,"uml, networking, react, html, architecture logicielle",Sousse,4,frontend_dev,"javascript, react, html",Sousse,0,1
+Qa Engineer,"jira, encryption, selenium, planning, cypress",Gabès,4,qa_engineer,"cypress, selenium, postman",Gabès,4,1
+Cloud Engineer,"aws, jira, devops, azure, gcp",Sfax,5,cloud_engineer,"azure, devops, terraform",Sfax,3,1
+Data Engineer,"airflow, python, networking, kubernetes, hadoop",Gabès,6,data_engineer,"hadoop, airflow, etl",Gabès,2,1
+Sysadmin,"postman, bash, networking, scrum, windows server",Gabès,6,sysadmin,"windows server, bash, ssh",Gabès,0,1
+Sysadmin,"networking, linux, kubernetes, windows server, bash",Gabès,6,sysadmin,"linux, bash, networking",Gabès,0,1
+Cybersecurity Engineer,"encryption, scikit-learn, firewall, wireshark, nmap",Gabès,3,cybersecurity_engineer,"kali linux, firewall, wireshark",Gabès,0,1
+Sysadmin,"ssh, devops, windows server, bash, linux",Sfax,6,sysadmin,"bash, networking, linux",Sfax,0,1
+Frontend Dev,"react, vue.js, kubernetes, spring boot, css",Ariana,5,frontend_dev,"react, css, javascript",Ariana,1,1
+Data Scientist,"python, azure, pandas, gcp, matplotlib",Monastir,0,data_scientist,"scikit-learn, matplotlib, python",Monastir,0,1
+Sysadmin,"spark, windows server, windows server, ssh, networking",Tunis,2,sysadmin,"windows server, ssh, linux",Tunis,0,1
+Data Scientist,"matplotlib, scikit-learn, pandas, postman, sql",Gabès,3,data_scientist,"python, pandas, matplotlib",Gabès,0,1
+Devops Engineer,"jenkins, matplotlib, kubernetes, ansible, docker",Sfax,6,devops_engineer,"terraform, ansible, jenkins",Sfax,3,1
+Software Architect,"architecture logicielle, java, etl, airflow, uml",Monastir,4,software_architect,"design patterns, java, architecture logicielle",Monastir,3,1
+Fullstack Dev,"wireshark, mongodb, javascript, sql, node.js",Ariana,4,fullstack_dev,"node.js, javascript, sql",Ariana,4,1
+Fullstack Dev,"javascript, docker, node.js, mongodb, react",Sousse,4,fullstack_dev,"react, javascript, mongodb",Sousse,4,1
+Software Architect,"react, postman, java, ssh, architecture logicielle",Sfax,6,software_architect,"java, microservices, architecture logicielle",Sfax,4,1
+Sysadmin,"linux, networking, bash, kali linux, vue.js",Sousse,6,sysadmin,"linux, bash, networking",Sousse,0,1
+Qa Engineer,"postman, airflow, selenium, css, cypress",Tunis,1,qa_engineer,"jira, cypress, postman",Tunis,1,1
+Frontend Dev,"devops, vue.js, javascript, excel, css",Monastir,3,frontend_dev,"html, css, javascript",Monastir,2,1
+Data Scientist,"python, pandas, jira, matplotlib, agile",Tunis,2,data_scientist,"matplotlib, python, scikit-learn",Tunis,2,1
+Sysadmin,"linux, windows server, linux, ssh, tensorflow",Sousse,4,sysadmin,"ssh, linux, networking",Sousse,3,1
+Data Engineer,"hadoop, python, etl, spark, airflow",Tunis,6,data_engineer,"spark, etl, hadoop",Tunis,3,1
+Sysadmin,"linux, windows server, ssh, azure, mongodb",Tunis,4,sysadmin,"bash, ssh, windows server",Tunis,2,1
+Data Engineer,"java, python, spark, airflow, ssh",Tunis,4,data_engineer,"airflow, spark, hadoop",Tunis,0,1
+Data Engineer,"airflow, spark, etl, tensorflow, kanban",Ariana,4,data_engineer,"spark, hadoop, etl",Ariana,4,1
+Cloud Engineer,"terraform, aws, spark, azure, gcp",Sfax,4,cloud_engineer,"terraform, devops, azure",Sfax,4,1
+Devops Engineer,"ansible, docker, kubernetes, terraform, jenkins",Ariana,4,devops_engineer,"docker, ansible, terraform",Ariana,3,1
+Software Architect,"java, uml, mongodb, wireshark, microservices",Tunis,6,software_architect,"microservices, design patterns, uml",Tunis,2,1
+Backend Dev,"node.js, agile, java, python, kubernetes",Sfax,4,backend_dev,"node.js, spring boot, java",Sfax,3,1
+Cybersecurity Engineer,"encryption, wireshark, uml, kali linux, nmap",Sfax,1,cybersecurity_engineer,"wireshark, kali linux, firewall",Sfax,0,1
+Devops Engineer,"kubernetes, docker, jenkins, terraform, planning",Sfax,3,devops_engineer,"jenkins, docker, kubernetes",Sfax,3,1
+Data Analyst,"excel, python, pandas, planning, power bi",Monastir,3,data_analyst,"sql, power bi, python",Monastir,0,1
+Data Analyst,"sql, tableau, design patterns, python, power bi",Tunis,5,data_analyst,"tableau, sql, python",Tunis,0,1
+Cloud Engineer,"gcp, devops, linux, aws, azure",Gabès,4,cloud_engineer,"aws, devops, azure",Gabès,0,1
+Devops Engineer,"matplotlib, kubernetes, ssh, docker, ansible",Sfax,6,devops_engineer,"docker, kubernetes, ansible",Sfax,5,1
+Backend Dev,"spring boot, encryption, node.js, sql, postman",Monastir,6,backend_dev,"spring boot, node.js, java",Monastir,0,1
+Scrum Master,"scrum, jira, kanban, planning, pandas",Tunis,5,scrum_master,"scrum, jira, planning",Tunis,1,1
+Backend Dev,"sql, java, planning, spring boot, jenkins",Gabès,5,backend_dev,"node.js, java, sql",Gabès,1,1
+Bi Analyst,"etl, sql, dashboards, power bi, etl",Tunis,4,bi_analyst,"tableau, dashboards, etl",Tunis,3,1
+Cybersecurity Engineer,"spark, nmap, tensorflow, wireshark, encryption",Ariana,2,cybersecurity_engineer,"nmap, encryption, wireshark",Ariana,0,1
+Data Scientist,"scikit-learn, pandas, matplotlib, hadoop, python",Monastir,5,data_scientist,"scikit-learn, pandas, matplotlib",Monastir,4,1
+Data Analyst,"python, power bi, tableau, sql, excel",Sfax,5,data_analyst,"tableau, python, power bi",Sfax,4,1
+Fullstack Dev,"javascript, architecture logicielle, node.js, sql, mongodb",Ariana,4,fullstack_dev,"react, sql, mongodb",Ariana,2,1
+Backend Dev,"azure, node.js, sql, keras, python",Sfax,1,backend_dev,"python, spring boot, node.js",Sfax,0,1
+Backend Dev,"python, java, encryption, spring boot, sql",Sfax,4,backend_dev,"sql, java, python",Sfax,4,1
+Ml Engineer,"mlflow, jenkins, azure, keras, tensorflow",Sousse,2,ml_engineer,"mlflow, keras, tensorflow",Sousse,2,1
+Data Engineer,"hadoop, etl, bash, python, etl",Sfax,6,data_engineer,"spark, etl, python",Sfax,5,1
+Cybersecurity Engineer,"firewall, wireshark, encryption, pandas, sql",Monastir,3,cybersecurity_engineer,"firewall, kali linux, wireshark",Monastir,2,1
+Data Engineer,"spark, jira, airflow, architecture logicielle, etl",Sousse,5,data_engineer,"python, spark, etl",Sousse,4,1
+Devops Engineer,"ansible, java, docker, kubernetes, terraform",Tunis,6,devops_engineer,"docker, terraform, jenkins",Tunis,1,1
+Backend Dev,"java, mlflow, node.js, python, sql",Sfax,5,backend_dev,"python, spring boot, java",Sfax,1,1
+Bi Analyst,"dashboards, test automation, power bi, mlflow, tableau",Monastir,5,bi_analyst,"etl, power bi, tableau",Monastir,5,1
+Sysadmin,"bash, linux, ansible, networking, windows server",Tunis,1,sysadmin,"networking, linux, windows server",Tunis,0,1
+Scrum Master,"kanban, agile, spark, planning, jira",Ariana,6,scrum_master,"agile, scrum, kanban",Ariana,4,1
+Fullstack Dev,"mongodb, javascript, airflow, python, node.js",Sfax,3,fullstack_dev,"javascript, node.js, sql",Sfax,0,1
+Cybersecurity Engineer,"wireshark, encryption, kali linux, encryption, firewall",Sousse,1,cybersecurity_engineer,"nmap, firewall, wireshark",Sousse,0,1
+Data Scientist,"matplotlib, pandas, ansible, devops, scikit-learn",Monastir,4,data_scientist,"matplotlib, pandas, sql",Monastir,4,1
+Devops Engineer,"terraform, jenkins, kubernetes, ansible, spark",Monastir,6,devops_engineer,"ansible, kubernetes, docker",Monastir,1,1
+Sysadmin,"linux, windows server, networking, devops, ssh",Gabès,5,sysadmin,"windows server, bash, linux",Gabès,2,1
+Qa Engineer,"kali linux, postman, cypress, selenium, test automation",Monastir,3,qa_engineer,"test automation, jira, selenium",Monastir,3,1
+Data Scientist,"matplotlib, planning, scrum, pandas, devops",Monastir,2,data_scientist,"pandas, matplotlib, sql",Monastir,0,1
+Data Scientist,"matplotlib, pandas, sql, scrum, scikit-learn",Monastir,0,data_scientist,"python, matplotlib, sql",Monastir,0,1
+Cloud Engineer,"aws, azure, terraform, encryption, gcp",Sousse,1,cloud_engineer,"aws, azure, gcp",Sousse,1,1
+Cloud Engineer,"java, gcp, terraform, azure, wireshark",Sousse,5,cloud_engineer,"terraform, azure, aws",Sousse,5,1
+Frontend Dev,"vue.js, matplotlib, javascript, react, javascript",Gabès,1,frontend_dev,"react, html, javascript",Gabès,0,1
+Ml Engineer,"python, scikit-learn, tensorflow, mlflow, keras",Ariana,5,ml_engineer,"python, scikit-learn, keras",Ariana,4,1
+Data Analyst,"tableau, python, tableau, power bi, nmap",Ariana,4,data_analyst,"python, power bi, excel",Ariana,1,1
+Cloud Engineer,"microservices, azure, architecture logicielle, aws, devops",Tunis,4,cloud_engineer,"aws, gcp, azure",Tunis,0,1
+Ml Engineer,"tensorflow, mlflow, html, postman, python",Monastir,0,ml_engineer,"keras, mlflow, python",Monastir,0,1
+Sysadmin,"react, networking, windows server, ssh, spark",Sousse,5,sysadmin,"windows server, networking, bash",Sousse,1,1
+Cloud Engineer,"devops, mlflow, terraform, gcp, excel",Ariana,3,cloud_engineer,"terraform, azure, gcp",Ariana,0,1
+Ml Engineer,"scikit-learn, python, excel, bash, tensorflow",Sfax,6,ml_engineer,"tensorflow, scikit-learn, keras",Sfax,3,1
+Data Analyst,"sql, python, tableau, power bi, kubernetes",Gabès,6,data_analyst,"python, excel, power bi",Gabès,0,1
+Data Engineer,"pandas, airflow, python, etl, test automation",Sfax,6,data_engineer,"hadoop, python, etl",Sfax,5,1
+Frontend Dev,"javascript, html, vue.js, react, nmap",Sfax,4,frontend_dev,"react, html, css",Sfax,3,1
+Cloud Engineer,"terraform, design patterns, aws, gcp, devops",Gabès,6,cloud_engineer,"azure, terraform, aws",Gabès,0,1
+Ml Engineer,"firewall, keras, kubernetes, mlflow, scikit-learn",Tunis,1,ml_engineer,"keras, tensorflow, mlflow",Tunis,0,1
+Cloud Engineer,"terraform, devops, python, aws, firewall",Gabès,3,cloud_engineer,"aws, devops, gcp",Gabès,0,1
+Devops Engineer,"kubernetes, terraform, devops, linux, ansible",Sousse,4,devops_engineer,"kubernetes, jenkins, ansible",Sousse,1,1
+Fullstack Dev,"tableau, sql, kubernetes, mongodb, javascript",Sfax,3,fullstack_dev,"react, sql, mongodb",Sfax,2,1
+Bi Analyst,"tableau, dashboards, sql, bash, power bi",Ariana,4,bi_analyst,"sql, power bi, dashboards",Ariana,2,1
+Cloud Engineer,"azure, aws, terraform, gcp, tensorflow",Sfax,5,cloud_engineer,"gcp, devops, azure",Sfax,3,1
+Bi Analyst,"tableau, python, etl, sql, dashboards",Monastir,4,bi_analyst,"sql, tableau, power bi",Monastir,1,1
+Scrum Master,"agile, scrum, kanban, scrum, airflow",Sousse,5,scrum_master,"kanban, agile, jira",Sousse,2,1
+Data Scientist,"sql, python, wireshark, tableau, matplotlib",Monastir,5,data_scientist,"matplotlib, sql, pandas",Monastir,3,1
+Bi Analyst,"spring boot, sql, dashboards, power bi, tableau",Monastir,4,bi_analyst,"tableau, power bi, sql",Monastir,4,1
+Cloud Engineer,"gcp, encryption, devops, aws, architecture logicielle",Ariana,6,cloud_engineer,"azure, aws, gcp",Ariana,4,1
+Cybersecurity Engineer,"encryption, kali linux, wireshark, nmap, firewall",Gabès,3,cybersecurity_engineer,"kali linux, nmap, encryption",Gabès,1,1
+Cloud Engineer,"aws, azure, keras, terraform, networking",Ariana,6,cloud_engineer,"azure, devops, terraform",Ariana,1,1

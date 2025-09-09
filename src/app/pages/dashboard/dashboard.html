@@ -1,0 +1,115 @@
+<!-- 🌐 Top Navigation -->
+<nav class="navbar">
+  <div class="navbar-left">
+    <img src="images.png" alt="Logo" class="logo" />
+    <span class="navbar-title">Espace RH</span>
+  </div>
+
+  <div class="navbar-right">
+    <div class="user-info">
+      <div class="user-meta">
+        <span class="user-name">{{ nomUtilisateur }}</span>
+        <span class="user-status">🟢 En ligne</span>
+      </div>
+    </div>
+    <button class="logout-btn" (click)="deconnexion()">Déconnexion</button>
+  </div>
+</nav>
+
+<!-- 📊 Dashboard Layout -->
+<div class="dashboard-container">
+  <!-- 📁 Sidebar Navigation -->
+  <aside class="sidebar">
+    <ul>
+      <li><i class="icon">📊</i> Tableau de bord</li>
+      <li><i class="icon">🔍</i> <a [routerLink]="['/recherche']">Recherche profils</a></li>
+      <li><i class="icon">📁</i> Profils trouvés</li>
+      <li><i class="icon">📨</i> <a [routerLink]="['/import-cv']">Import CV</a></li>
+      <li><i class="icon">📈</i> Statistiques RH</li>
+      <li><i class="icon">💬</i> Feedback IA</li>
+    </ul>
+  </aside>
+
+  <!-- 📋 Main Content -->
+  <main class="main-content">
+    <!-- 📦 Dashboard Widgets -->
+    <div class="widgets">
+      <div class="card shadow">
+        <h3>📥 Profils importés</h3>
+        <p class="value">{{ totalProfils }}</p>
+      </div>
+
+      <div class="card shadow">
+        <h3>✅ Profils recommandés</h3>
+        <p class="value">{{ nbRecommandes }}</p>
+      </div>
+
+      <div class="card shadow">
+        <h3>📌 Derniers ajouts</h3>
+        <ul class="mini-list">
+          <li *ngFor="let p of nouveauxProfils">
+            {{ p.fullname }} – {{ p.jobtitle }} (score: {{ p.score | number: '1.0-2' }})
+          </li>
+        </ul>
+      </div>
+
+      <div class="card shadow">
+        <h3>📈 Score moyen IA</h3>
+        <p class="value">{{ moyenneScore }}%</p>
+      </div>
+    </div>
+
+    <!-- 📊 Graphiques -->
+    <section class="charts">
+      <!-- Métiers -->
+      <div class="chart-card">
+        <h4>Top métiers</h4>
+        <canvas baseChart 
+          [datasets]="topMetiersData"
+          [labels]="topMetiersLabels"
+          chartType="bar">
+        </canvas>
+      </div>
+
+      <!-- Villes -->
+      <div class="chart-card">
+        <h4>Répartition géographique</h4>
+        <canvas baseChart 
+          [datasets]="villesData"
+          [labels]="villesLabels"
+          chartType="pie">
+        </canvas>
+      </div>
+
+      <!-- Études -->
+      <div class="chart-card">
+        <h4>Niveau d’études</h4>
+        <canvas baseChart 
+          [datasets]="etudesData"
+          [labels]="etudesLabels"
+          chartType="doughnut">
+        </canvas>
+      </div>
+
+      <!-- 🔹 Graphe 1 : Top compétences -->
+      <div class="chart-card">
+        <h4>Top compétences</h4>
+        <canvas baseChart
+          [data]="skillsData"
+          [options]="skillsOptions"
+          chartType="bar">
+        </canvas>
+      </div>
+
+      <!-- 🔹 Graphe 2 : Répartition des compétences par métier -->
+      <div class="chart-card wide">
+        <h4>Répartition des compétences par métier</h4>
+        <canvas baseChart
+          [data]="skillsPerJobData"
+          [options]="skillsPerJobOptions"
+          chartType="bar">
+        </canvas>
+      </div>
+    </section>
+  </main>
+</div>
